@@ -11,5 +11,5 @@ birthday5="January 3"
 print(f"{name}'s birthday is on {birthday}.")
 print(f"{name2}'s birthday is on {birthday2}.")
 print(f"{name3}'s birthday is on {birthday3}.")
-print(f"{name4} birthday is on {birthday4}.")
-print(f"{name5} birthday is on {birthday5}.")
+print(f"{name4}'s birthday is on {birthday4}.")
+print(f"{name5}'s birthday is on {birthday5}.")
