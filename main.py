@@ -1,0 +1,11 @@
+name = "Diya's"
+birthday="October 26"
+name2="Aditi's"
+birthday2="March 2"
+name3="Person's"
+birthday3="January 1"
+name4="OtherPerson's"
+birthday4="January 2"
+name5="DifferentPerson's"
+birthday5="January 3"
+print(f"{name} birthday is on {birthday},{name2} birthday is on {birthday2},{name3} birthday is on {birthday3},{name4} birthday is on {birthday4},{name5} birthday is on {birthday5}.")
